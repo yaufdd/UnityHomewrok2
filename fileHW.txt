@@ -1,0 +1,28 @@
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
+ tempByte = 1, tempSbyte = 2, tempShort = 3, tempUshort = 4, tempInt = 5, tempUint = 6, tempUshort = 4, tempLong = 7, tempUlong = 8, tempFloat = 1, tempDouble = 1, tempDecimal = 1, tempChar = a,
+ tempString = qwe, tdouble = 2,5, i = 2, temp3 = 3, ttt = text 52,5, tbool = True
